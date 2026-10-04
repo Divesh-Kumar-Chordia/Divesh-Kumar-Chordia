@@ -1,3 +1,5 @@
+![Animated data platform built from colorful blocks](assets/data-platform-banner.svg)
+
 # Divesh Kumar Chordia
 
 ### Software Engineer | Data & Platform Engineering
@@ -13,6 +15,12 @@ Software engineer with 2+ years building data and analytics platforms at Content
 - Onboarded 6 products to the Go audit-logging platform across ingestion, Elasticsearch index templates, and the admin filter UI.
 - Led security hardening across 10 services, including Node.js 24 and Go 1.24 upgrades, non-root images, and CVE remediation with Snyk and Trivy.
 - Authored 500+ merged pull requests and reviewed 515 across 35 repositories.
+
+## Selected Side Projects
+
+- [Contentstack Analytics Testing & Automation Lab](https://github.com/DiveshKumarChordia/contentstack-analytics-automation-lab) - Contentstack testing platform combining a Delivery API site, content lifecycle automation, analytics-meter coverage, and Launch URL warming.
+- [Lumen Visual Experience](https://github.com/DiveshKumarChordia/lumen-visual-experience) - Contentstack Visual Builder sample site with scripted content setup and Live Preview for drafts, Releases, and Timeline.
+- [GitPulse Dashboard](https://github.com/DiveshKumarChordia/gitpulse-dashboard) - GitHub organization dashboard for commits and pull requests, with activity filters, heatmap, and cross-repository code search.
 
 ## Technical Focus
 
